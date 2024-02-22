@@ -1,0 +1,6 @@
+@UnderwayAPI_HostAddress = http://localhost:5158
+
+GET {{UnderwayAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
